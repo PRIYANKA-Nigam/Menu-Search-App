@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Menu Search</string>
+    <string-array name="my">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>pastry</item>
+        <item>Rolls</item>
+        <item>Manchurian</item>
+        <item>Fries</item>
+        <item>Momos</item>
+        <item>Water Balls</item>
+        <item>Noodles</item>
+        <item>Maggie</item>
+        <item>Macroni</item>
+        <item>Bombino</item>
+        <item>Fritters</item>
+        <item>Rissole</item>
+        <item>Dhokale</item>
+        <item>Cake</item>
+        <item>Pop Corn</item>
+        <item>Samolina Pie</item>
+        <item>Gram Flour Chappati</item>
+        <item>Chhole Bhature</item>
+    </string-array>
+</resources>
